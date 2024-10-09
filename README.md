@@ -2,16 +2,7 @@
 
 ### A passionate full-stack developer from Bharat 🇮🇳.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ru-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="ru-bhagat" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Female Coder GIF"/>
-</div>
-
 ## 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently working on full-stack development and machine learning projects, while also working on cloud-based solutions.
 - 🌱 I am expanding my skill set by learning Three.js, Next.js, pursuing Google Cloud certifications, and exploring Generative AI tools.
@@ -101,7 +92,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ru-bhagat&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ru-bhagat&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ## 💰 Support Here
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ruu.bhagat)
