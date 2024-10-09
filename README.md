@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks 👋, I'm Rutuja.</h1>
-<h3 align="center">A passionate full-stack developer from Bharat 🇮🇳</h3>
+<h3 align="center">A passionate full-stack developer from Bharat 🇮🇳.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ru-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="ru-bhagat" />
@@ -33,8 +33,7 @@
 
 # 💻 Tech Stack:
 
-<details>
-<summary>Frontend</summary>
+Frontend
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,9 +47,8 @@
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</details>
 
-Backend
+## Backend
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -64,9 +62,7 @@ Backend
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
-
-<details>
-<summary>Databases</summary>
+## Databases
 <br>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,10 +71,7 @@ Backend
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-</details>
-
-<details>
-<summary>Cloud & DevOps</summary>
+Cloud & DevOps
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -90,10 +83,7 @@ Backend
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</details>
-
-<details>
-<summary>Data Science & ML</summary>
+## Data Science & ML
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -105,10 +95,8 @@ Backend
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-</details>
 
-<details>
-<summary>Tools & Others</summary>
+## Other Tools
 <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -121,7 +109,6 @@ Backend
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-</details>
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -137,11 +124,6 @@ Backend
   </a>
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
-</p>
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ru-bhagat&limit=5&theme=graywhite&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
@@ -152,59 +134,10 @@ Backend
   <img src="https://visitcount.itsvg.in/api?id=ru-bhagat&icon=5&color=12" alt="Visit Count" />
 </p>
 
-## 💰 You can help me by Donating
+## 💰 Support Here
 <p align="center">
   <a href="https://buymeacoffee.com/ruu.bhagat" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-@keyframes slideIn {
-  0% { transform: translateY(20px); opacity: 0; }
-  100% { transform: translateY(0); opacity: 1; }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.02); }
-  100% { transform: scale(1); }
-}
-
-h3, p, img, details, .github-stats img, .quote img, .top-repo img {
-  animation: fadeIn 1s ease-in-out;
-}
-
-details {
-  margin-bottom: 20px;
-  transition: all 0.3s ease-in-out;
-}
-
-details summary {
-  cursor: pointer;
-  font-weight: bold;
-  margin-bottom: 10px;
-  transition: all 0.3s ease-in-out;
-}
-
-details[open] summary {
-  margin-bottom: 10px;
-}
-
-a, img {
-  transition: all 0.3s ease-in-out;
-}
-
-a:hover {
-  opacity: 0.8;
-}
-
-img:hover {
-  transform: scale(1.05);
-}
-</style>
