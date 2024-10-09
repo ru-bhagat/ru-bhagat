@@ -1,41 +1,33 @@
-<h1 align="center">Hi folks 👋, I'm Rutuja.</h1>
-<h3 align="center">A passionate full-stack developer from Bharat 🇮🇳.</h3>
+# Hi folks 👋, I'm Rutuja.
+
+### A passionate full-stack developer from Bharat 🇮🇳.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ru-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="ru-bhagat" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" style="filter: brightness(0) invert(1);"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Female Coder GIF"/>
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🔭 I'm currently working on full-stack development and machine learning projects, while also working on cloud-based solutions.
-
-🌱 I am expanding my skill set by learning Three.js, Next.js, pursuing Google Cloud certifications, and exploring Generative AI tools.
-
-👯 I am open to collaborating on full-stack, machine learning, and cloud technology initiatives.
-
-💬 Ask me about full-stack development, machine learning, and cloud technologies.
-
-📫 How to reach me: rutuja.bhagat.developer@gmail.com
-
-⚡ Fun fact: I enjoy incorporating a touch of creativity and humor into my code, while balancing the development of intuitive user interfaces and robust backend solutions.
+- 🔭 I'm currently working on full-stack development and machine learning projects, while also working on cloud-based solutions.
+- 🌱 I am expanding my skill set by learning Three.js, Next.js, pursuing Google Cloud certifications, and exploring Generative AI tools.
+- 👯 I am open to collaborating on full-stack, machine learning, and cloud technology initiatives.
+- 💬 Ask me about full-stack development, machine learning, and cloud technologies.
+- 📫 How to reach me: rutuja.bhagat.developer@gmail.com
+- ⚡ Fun fact: I enjoy incorporating a touch of creativity and humor into my code, while balancing the development of intuitive user interfaces and robust backend solutions.
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://instagram.com/ruu.bhagat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/ru-bhagat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/ruu_bhagat" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruu.bhagat) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ru-bhagat) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ruu_bhagat)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-Frontend
-<br>
-
+### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,10 +39,7 @@ Frontend
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-## Backend
-<br>
-
+### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -62,18 +51,14 @@ Frontend
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
-## Databases
-<br>
-
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-Cloud & DevOps
-<br>
-
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -83,9 +68,7 @@ Cloud & DevOps
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Data Science & ML
-<br>
-
+### Data Science & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -95,10 +78,7 @@ Cloud & DevOps
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-
-## Other Tools
-<br>
-
+### Other Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -109,35 +89,19 @@ Cloud & DevOps
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ru-bhagat&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ru-bhagat&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ru-bhagat&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ru-bhagat&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ru-bhagat&theme=flag-india&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-bhagat&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+## 🏆 Google Cloud Skills
+[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/1f0a3e1e-5d2c-4ea5-8444-cb579e47181e)
 
-# 🏆 Google Cloud Skills
-<p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/1f0a3e1e-5d2c-4ea5-8444-cb579e47181e" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills" />
-  </a>
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ru-bhagat&limit=5&theme=graywhite&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ru-bhagat&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ru-bhagat&icon=5&color=12" alt="Visit Count" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=ru-bhagat&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ## 💰 Support Here
-<p align="center">
-  <a href="https://buymeacoffee.com/ruu.bhagat" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ruu.bhagat)
