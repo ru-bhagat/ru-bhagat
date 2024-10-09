@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+folks+👋,+I'm+Rutuja;Welcome+to+my+GitHub+profile!&center=true&size=30">
-</h1>
+<h1 align="center">Hi folks 👋, I'm Rutuja.</h1>
 <h3 align="center">A passionate full-stack developer from Bharat 🇮🇳</h3>
 
 <p align="center">
@@ -8,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" style="filter: brightness(0) invert(1);"/>
 </div>
 
 # 💫 About Me:
@@ -53,7 +51,7 @@
 </details>
 
 <details>
-<summary>Backend</summary>
+Backend
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -176,39 +174,39 @@
 
 @keyframes pulse {
   0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
+  50% { transform: scale(1.02); }
   100% { transform: scale(1); }
 }
 
-h1, h3 {
+h3, p, img, details, .github-stats img, .quote img, .top-repo img {
   animation: fadeIn 1s ease-in-out;
-}
-
-p, img {
-  animation: slideIn 1s ease-in-out;
 }
 
 details {
-  animation: fadeIn 1s ease-in-out;
   margin-bottom: 20px;
+  transition: all 0.3s ease-in-out;
 }
 
 details summary {
   cursor: pointer;
   font-weight: bold;
   margin-bottom: 10px;
+  transition: all 0.3s ease-in-out;
 }
 
 details[open] summary {
   margin-bottom: 10px;
 }
 
-.github-stats img, .quote img, .top-repo img {
-  animation: pulse 2s infinite;
+a, img {
+  transition: all 0.3s ease-in-out;
 }
 
 a:hover {
   opacity: 0.8;
-  transition: opacity 0.3s ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.05);
 }
 </style>
